@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git track changes of files.
 Creating a new branch is quick and simple.
 Git merge with no--ff.
-Git is a free solfwere.
+Git is a free solfware.
